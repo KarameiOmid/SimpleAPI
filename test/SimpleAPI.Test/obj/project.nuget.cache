@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B1+ADU1JkmIjI0PWp0ybFUHEcH9PMnH/VIGZi4LHszvw9bZuXhGGpIiAG8E+k4QD8s7Jnp9yINE7IaephsSSGQ==",
+  "dgSpecHash": "i6uGHvunvQCUOi94XPbjD2WH0DPa+WLOgaIxZsSl1H7E1AfK47wUSniCfwMyNwzO+fyV1F93ZC3MeMD/+Q77WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+  "projectFilePath": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karam\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\karam\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

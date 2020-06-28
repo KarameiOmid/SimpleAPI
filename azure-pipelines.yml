@@ -42,7 +42,6 @@ steps:
 
 
   - task: DotNetCoreCLI@2
-  inputs:
     displayName: 'dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     inputs:
       command: publish

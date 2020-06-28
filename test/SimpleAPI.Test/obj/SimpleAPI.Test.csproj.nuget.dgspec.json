@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {}
+    "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.test.csproj": {}
   },
   "projects": {
     "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj": {
@@ -62,12 +62,12 @@
         }
       }
     },
-    "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {
+    "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
-        "projectName": "SimpleAPI.Test",
-        "projectPath": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "projectUniqueName": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.test.csproj",
+        "projectName": "SimpleAPI.test",
+        "projectPath": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.test.csproj",
         "packagesPath": "C:\\Users\\karam\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\karam\\OneDrive\\Documents\\vscode\\SimpleAPISln\\test\\SimpleAPI.Test\\obj\\",
         "projectStyle": "PackageReference",
